@@ -3,10 +3,10 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Peraturan ANRI](ebook/Peraturan ANRI.pdf) – Jasmine (2026) 
-2. [Surat Permohonan Dinas](ebook/Surat Permohonan Dinas.pdf) – Jasmine (2026)
-3. [Latihan Chatbot Lanjutan](ebook/Latihan Chatbot Lanjutan.pdf) – Jasmine (2026)
-4. [Digital Curation](ebook/Digital Curation.pdf) – Jasmine (2026)
-5. [Guide Book Etnografi](ebook/Guide Book Etnografi.pdf) – Antrop (2026)
+2. [MADILOG](ebook/MADILOG.pdf) – Tan Malaka (1948)
+3. [Janji](ebook/Janji.pdf) – Tere Liye (2021)
+4. [The Midnight Library](ebook/The Midnight Library.pdf) – Matt Haig (2020)
+5. [The Way I Used To Be](ebook/The Way I Used To Be.pdf) – Amber Smith (2016)
 6. [Ethics of Islam](ebook/Ethics of Islam.pdf) – Ali bin Emrullah (2016)
 7. [INDIAN AWLIYAS](ebook/INDIAN AWLIYAS.pdf) – Baski (2005)
 8. [Could Not Answer](ebook/Could Not Answer.pdf) – Huseyn (2017)
