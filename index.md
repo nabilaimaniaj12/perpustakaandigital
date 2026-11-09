@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [INDIAN AWLIYAS](ebook/INDIAN AWLIYAS.pdf) – Baski (2005)
 8. [Could Not Answer](ebook/Could Not Answer.pdf) – Huseyn (2017)
 9. [Ehli Sunnet Yolu](ebook/Ehli Sunnet Yolu.pdf) – Huseyn (2021)
-10. [Advice for the Muslimi](ebook/Advice for the Muslim.pdf) – Huseyn (2027)
+10. [Advice for the Muslim](ebook/Advice for the Muslim.pdf) – Huseyn (2027)
 11. [The Path of Islam](ebook/The Path of Islam.pdf) – Konak (2017)
 12. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) – Jasmine (2026) 
 ---
