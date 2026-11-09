@@ -1,4 +1,7 @@
 # Digital Library
+Nabila Imania Jasmine
+NIM : 13040124140122
+Kelas C
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
@@ -13,6 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Ehli Sunnet Yolu](ebook/Ehli Sunnet Yolu.pdf) – Huseyn (2021)
 10. [Advice for the Muslim](ebook/Advice for the Muslim.pdf) – Huseyn (2017)
 11. [The Path of Islam](ebook/The Path of Islam.pdf) – Konak (2017)
-12. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) – Jasmine (2026) 
+12. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) – Jasmine (2026)
+
 ---
 *Powered by GitHub Pages*
